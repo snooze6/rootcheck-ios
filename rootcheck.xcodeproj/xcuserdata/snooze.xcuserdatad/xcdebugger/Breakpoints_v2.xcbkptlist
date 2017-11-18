@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "rootcheck/ViewController.swift"
+            timestampString = "532564834.119645"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rootcheck.ViewController.__deallocating_deinit"
+                  moduleName = "rootcheck"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/snooze/workspace/xcode/rootcheck/rootcheck/rootcheck/ViewController.swift"
+                  timestampString = "532564835.166419"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rootcheck.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; rootcheck.ViewController"
+                  moduleName = "rootcheck"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/snooze/workspace/xcode/rootcheck/rootcheck/rootcheck/ViewController.swift"
+                  timestampString = "532564835.169408"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rootcheck.ViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; rootcheck.ViewController"
+                  moduleName = "rootcheck"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/snooze/workspace/xcode/rootcheck/rootcheck/rootcheck/ViewController.swift"
+                  timestampString = "532564835.170993"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rootcheck.ViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;rootcheck.ViewController&gt;"
+                  moduleName = "rootcheck"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/snooze/workspace/xcode/rootcheck/rootcheck/rootcheck/ViewController.swift"
+                  timestampString = "532564835.172526"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rootcheck.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;rootcheck.ViewController&gt;"
+                  moduleName = "rootcheck"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/snooze/workspace/xcode/rootcheck/rootcheck/rootcheck/ViewController.swift"
+                  timestampString = "532564835.174052"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "rootcheck/JailbreakDelegate.swift"
+            timestampString = "532726039.159938"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "scheme_jailbreak()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
